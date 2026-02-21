@@ -43,9 +43,9 @@ This board use jumper to select 5V power source and to enable 3V3 power supply.
 
 ### 4. Hardware design
 
-#### Schematic
 
-[![schematic](assets/demo/schematic.png)](assets/demo/OpenDrone_AIO_FC_F405_HW_v1.pdf)
+
+
 
 #### PCB F.Cu
 
